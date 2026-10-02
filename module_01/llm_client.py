@@ -141,8 +141,6 @@ def ask_llm(question: str) -> tuple:
     start = time.time()
 
     # --- заменить этот блок на try/except (см. пункты 1-3 выше) ---
-    result = call_gigachat(question)
-    provider = "GigaChat"
     try:
         result = call_gigachat(question)
         provider = "GigaChat"
