@@ -6,5 +6,13 @@
     "priority": "high",
     "status": "open",
     "created_at": "2026-11-11T13:19:58.365242+00:00"
+  },
+  {
+    "id": "5508579c",
+    "equipment_id": "SEP-04",
+    "description": "подозрение на утечку масла на SEP-04",
+    "priority": "critical",
+    "status": "open",
+    "created_at": "2026-11-24T05:19:30.737851+00:00"
   }
 ]

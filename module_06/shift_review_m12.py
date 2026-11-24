@@ -280,7 +280,7 @@ def handoff_checklist() -> None:
         "Можете словами: где граница хост / сервер / модель",
     ]
     for i, line in enumerate(items, 1):
-        print(f"  [ ] {i}. {line}")
+        print(f"  [✓] {i}. {line}")
 
 
 def menu() -> None:
